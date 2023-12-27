@@ -12,6 +12,7 @@ OrangeHRM es una herramienta diseñada para el área de Recursos Humanos, con el
 * Cypress
   
 ### 📁 Contenido:
+<a href="https://github.com/marilinasc/OrangeHRM/blob/main/smokeTestOrangeHRM.cy.js"> Archivo E2E Testing </a>
 
 * Precondicion (beforeEach): el usuario debe estar logueado.
 
@@ -44,4 +45,6 @@ OrangeHRM es una herramienta diseñada para el área de Recursos Humanos, con el
 </table>
 
 ### 📊 Reporte: 
-<a href="file:///C:/Users/Marcos/Desktop/CYPRESS/cypress/reports/html/index.html"> Smoke test OrangeHRM Report </a>
+<a href="https://github.com/marilinasc/OrangeHRM/tree/main/reports/html"> Smoke test OrangeHRM Report </a>
+
+<img src="/OrangeHRM-Report.PNG"/> 
